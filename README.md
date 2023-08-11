@@ -1,4 +1,4 @@
-# install-kube-cluster
+# setup-kube-cluster
 
 How to setup:
 1. Make sure you have installed Ansible on your laptop
